@@ -1,0 +1,7 @@
+firebase-functions
+fastapi
+pandas
+numpy
+scikit-learn
+pymongo
+httpx
